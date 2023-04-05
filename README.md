@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Melissa Jesmin. I graduated from college in a B.A in Computer Science. <br>I am currently a student at Hackbright Academy and part of Perficient Bright Paths Program.
+I am Melissa Jesmin. I graduated from college with a B.A in Computer Science. <br>I am currently a student at Hackbright Academy and part of Perficient Bright Paths Program.
 
 
 ## 🌐 Socials:
